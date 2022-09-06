@@ -17,7 +17,9 @@ public interface MyStringInterface {
      * @return Current string
      */
     String getString();
-
+    String getString{
+        System.out.print("string")
+    }
     /**
      * Sets the value of the current string
      *
