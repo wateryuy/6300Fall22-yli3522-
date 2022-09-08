@@ -1,5 +1,5 @@
 package edu.gatech.seclass;
-
+aaa
 /**
  * Interface created for use in Georgia Tech CS6300.
  *
@@ -17,9 +17,7 @@ public interface MyStringInterface {
      * @return Current string
      */
     String getString();
-    String getString{
-        System.out.print("string")
-    }
+
     /**
      * Sets the value of the current string
      *
